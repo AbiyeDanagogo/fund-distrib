@@ -8,7 +8,7 @@ The Binomial distribution describes the number of positive outcomes in binary ex
 
 # Installation
 
-pip install --index-url https://test.pypi.org/simple/ fund-distrib
+pip install --index-url https://test.pypi.org/simple/fund-distrib
 
 # Usage
 
